@@ -1,0 +1,8 @@
+llm:
+  openai:
+    provider: "openai"
+    model_name: "o4-mini"
+
+  google:
+    provider: "Google"
+    model_name: "Gemini 3 Pro"

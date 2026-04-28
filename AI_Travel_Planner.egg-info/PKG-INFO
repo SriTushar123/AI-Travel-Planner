@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: AI-Travel-Planner
+Version: 0.0.1
+Author: Tushar Srivastava
+Author-email: tusharsrivastava354@gmail.com
+Requires-Dist: langchain
+Requires-Dist: langchain-community
+Requires-Dist: langchain-experimental
+Requires-Dist: fastapi
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: uvicorn
+Requires-Dist: pydantic
+Requires-Dist: httpx
+Requires-Dist: requests
+Requires-Dist: langchain_google_community
+Requires-Dist: langchain_tavily
+Requires-Dist: langchain_groq
+Requires-Dist: langchain_openai
+Requires-Dist: langgraph
+Requires-Dist: langchain-google-community[places]
+Requires-Dist: setuptools
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
