@@ -83,6 +83,8 @@ class GraphBuilder():
         else:
             return "output_formatter"
 
+    def joinNode(self):
+        pass 
     
     def build_graph(self):
         graph = StateGraph(MessagesState)
